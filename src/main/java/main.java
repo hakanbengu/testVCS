@@ -1,7 +1,7 @@
 
 
 
-public class Test {
+class Test {
 
     static void main(String[] args){
 
