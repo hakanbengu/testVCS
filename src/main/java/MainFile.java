@@ -1,7 +1,7 @@
 
 
 
-class Test {
+public class MainFile {
 
     static void main(String[] args){
 
